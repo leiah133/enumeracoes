@@ -8,5 +8,5 @@ public enum OrderStatus {
     //enviado
     SHIPPED,
     //entregue
-    DEVILERED;
+    DELIVERED;
 }
